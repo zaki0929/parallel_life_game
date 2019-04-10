@@ -1,0 +1,12 @@
+html              {height: 100%;
+                  margin: 0;}
+
+body              {height: 100%;
+                  background-color: #000;
+                  margin: 0;}
+
+#container-parent {height: 100%;
+                  padding: 80px;
+                  box-sizing: border-box;}
+
+#container        {height: 100%;}
